@@ -1,0 +1,6 @@
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\bin\Debug\Bucket_Sort.exe.config
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\obj\Debug\Bucket_Sort.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\bin\Debug\Bucket_Sort.exe
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\bin\Debug\Bucket_Sort.pdb
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\obj\Debug\Bucket_Sort.exe
+C:\Users\DC\Desktop\Algoritmalar\Bucket Sort\Bucket_Sort\Bucket_Sort\obj\Debug\Bucket_Sort.pdb
